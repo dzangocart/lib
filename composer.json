@@ -1,0 +1,15 @@
+{
+    "name": "dzangocart/lib",
+    "description": "",
+    "license": "MIT",
+    "homepage": "https://github.com/dzangocart/lib",
+    "require": {
+        "opichon/pcrypt": "^1.0"
+    },
+    "extra": {
+        "branch-alias": {
+            "dev-master": "1.0.x-dev"
+        }
+    }
+}
+
